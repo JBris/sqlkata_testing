@@ -1,2 +1,2 @@
 # sqlkata_testing
-Testing features for the SqlKata Query Builder
+Testing features of the SqlKata Query Builder for different database backends.
